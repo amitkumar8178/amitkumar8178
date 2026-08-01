@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Amit </h1>
 <h3 align="center">AI/ML Engineer | MLOps Enthusiast | Mathematics & Computing @ IIT Jammu</h3>
 
 ---
