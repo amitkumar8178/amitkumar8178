@@ -99,21 +99,6 @@ https://github.com/amitkumar8178/Kidney-Disease-Classification-MLOps
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitkumar8178&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar8178&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumar8178&theme=tokyonight"/>
-</p>
-
----
 
 ## 📊 Contribution Graph
 
